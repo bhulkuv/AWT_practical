@@ -1,0 +1,2 @@
+D:\OrganizationRegistrationApp\OrganizationRegistrationApp\obj\Debug\OrganizationRegistrationApp.csproj.AssemblyReference.cache
+D:\OrganizationRegistrationApp\OrganizationRegistrationApp\obj\Debug\OrganizationRegistrationApp.csproj.CoreCompileInputs.cache
